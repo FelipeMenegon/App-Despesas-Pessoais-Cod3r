@@ -18,3 +18,7 @@ Este é um aplicativo de **controle de despesas pessoais**, desenvolvido em Flut
 
 - **Flutter**: Framework principal para desenvolvimento multiplataforma.
 - **Dart**: Linguagem de programação utilizada no Flutter.
+
+## Capturas de Tela
+
+![Screenshot 2024-12-03 125636](https://github.com/user-attachments/assets/cd72f6c2-6d7f-421f-88e4-dda4b17ce03f)
