@@ -13,3 +13,8 @@ Este é um aplicativo de **controle de despesas pessoais**, desenvolvido em Flut
   - Exclua transações quando necessário.
 - **Interface limpa e intuitiva**:
   - Utiliza temas personalizados para uma melhor experiência do usuário.
+
+## Tecnologias Utilizadas
+
+- **Flutter**: Framework principal para desenvolvimento multiplataforma.
+- **Dart**: Linguagem de programação utilizada no Flutter.
