@@ -22,5 +22,3 @@ Este é um aplicativo de **controle de despesas pessoais**, desenvolvido em Flut
 ## Capturas de Tela
 
 ![Screenshot 2024-12-03 125636](https://github.com/user-attachments/assets/cd72f6c2-6d7f-421f-88e4-dda4b17ce03f)
-
-## Felipe Menegon
